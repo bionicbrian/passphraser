@@ -10,5 +10,9 @@
     "passphrase"
   ],
   "author": "Brian Moore <bionicbrian+npm@gmail.com> (http://www.bionicbrian.com/)",
-  "license": "BSD"
+  "license": "BSD",
+  "repository": {
+    "type" : "git",
+    "url" : "http://github.com/bionicbrian/passphraser.git"
+  }
 }
