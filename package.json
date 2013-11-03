@@ -1,0 +1,14 @@
+{
+  "name": "passphraser",
+  "version": "0.1.0",
+  "description": "Generate a fun, user-friendly passphrase. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "passphrase"
+  ],
+  "author": "Brian Moore <bionicbrian+npm@gmail.com> (http://www.bionicbrian.com/)",
+  "license": "BSD"
+}
